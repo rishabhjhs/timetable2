@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Update"
+        android:orderInCategory="100"
+        android:title="Update"
+        />
+
+    <item
+        android:id="@+id/Changeback"
+        android:orderInCategory="100"
+        android:title="Change Background"
+
+        />
+    <item
+        android:id="@+id/changedefault"
+        android:orderInCategory="100"
+        android:title="Change To Default"
+        />
+    <item
+        android:id="@+id/About"
+        android:orderInCategory="100"
+        android:title="About"
+        />
+
+</menu>
